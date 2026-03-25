@@ -1,0 +1,2 @@
+# 把文本统一成 LF，避免 Windows 单独把 CRLF 提交进库。
+* text=auto eol=lf
